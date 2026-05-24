@@ -12,8 +12,8 @@ His current research focuses on 3D computer vision and multi-agent collaborative
 
 ## 🔥 News
 * **[May 2026]** One paper on universal any-to-any translation for collaborative perception has been accepted to **ICML 2026**!
-* **[May 2026]** Submitted our latest work on Tokenized Semantic Gaussians as a unified language for spatial intelligence to **NeurIPS 2026**.
-* **[Dec 2025]** Submitted a paper regarding point-level token optimization for collaborative perception to **CVPR 2026**.
+#* **[May 2026]** Submitted our latest work on Tokenized Semantic Gaussians as a unified language for spatial intelligence to **NeurIPS 2026**.
+#* **[Dec 2025]** Submitted a paper regarding point-level token optimization for collaborative perception to **CVPR 2026**.
 
 ## 🎓 Education
 * **Ph.D. in Computer Science** (2023 - 2028)
@@ -28,13 +28,13 @@ His current research focuses on 3D computer vision and multi-agent collaborative
 Yang Li, Weize Li, Quan Yuan, Shao Congzhang, Guiyang Luo, Yunqi Ba, **Xuanhan Zhu**, Xinyuan Ding, Xiaoyuan Fu, Jinglin Li.
 *International Conference on Machine Learning (**ICML**), 2026*
 
-**Tokenized Semantic Gaussians as a Unified Language for Multi-Agent Spatial Intelligence**
-**Xuanhan Zhu**, Yang Li, Quan Yuan, Xiyuan Sun, Zihe Ge, Xianke Wu, Guiyang Luo, Xiaoyuan Fu, Jinglin Li.
-*Submitted to Conference on Neural Information Processing Systems (**NeurIPS**), 2026*
+#**Tokenized Semantic Gaussians as a Unified Language for Multi-Agent Spatial Intelligence**
+#**Xuanhan Zhu**, Yang Li, Quan Yuan, Xiyuan Sun, Zihe Ge, Xianke Wu, Guiyang Luo, Xiaoyuan Fu, Jinglin Li.
+#*Submitted to Conference on Neural Information Processing Systems (**NeurIPS**), 2026*
 
-**Beyond BEV: Optimizing Point-Level Tokens for Collaborative Perception**
-Yang Li, Quan Yuan, Guiyang Luo, Xiaoyuan Fu, Yangyujia, Shao Congzhang, Rui Pan, **Xuanhan Zhu**, Jinglin Li.
-*Submitted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
+#**Beyond BEV: Optimizing Point-Level Tokens for Collaborative Perception**
+#Yang Li, Quan Yuan, Guiyang Luo, Xiaoyuan Fu, Yangyujia, Shao Congzhang, Rui Pan, **Xuanhan Zhu**, Jinglin Li.
+#*Submitted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
 
 **One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception**
 Yuchen Xia, Quan Yuan, Guiyang Luo, Xiaoyuan Fu, Yang Li, **Xuanhan Zhu**, Tianyou Luo, Siheng Chen, Jinglin Li.
