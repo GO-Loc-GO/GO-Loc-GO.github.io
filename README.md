@@ -13,8 +13,8 @@ His current research focuses on 3D computer vision and multi-agent collaborative
 
 ## 🔥 News
 * **[May 2026]** One paper on universal any-to-any translation for collaborative perception has been accepted to **ICML 2026**!
-#* **[May 2026]** Submitted our latest work on Tokenized Semantic Gaussians as a unified language for spatial intelligence to **NeurIPS 2026**.
-#* **[Dec 2025]** Submitted a paper regarding point-level token optimization for collaborative perception to **CVPR 2026**.
+* **[May 2026]** Submitted our latest work on using semantic Gaussians for collaborative perception to **NeurIPS 2026**.
+* **[Dec 2025]** Submitted a paper regarding point-level token optimization for collaborative perception to **CVPR 2026**.
 
 ## 🎓 Education
 * **Ph.D. in Computer Science** (2023 - 2028)
